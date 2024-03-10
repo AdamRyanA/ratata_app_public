@@ -1,0 +1,9 @@
+export 'Home/home_page.dart';
+export 'Splash/splash_page.dart';
+export 'SignIn/sign_in_page.dart';
+export 'SignUp/sign_up_page.dart';
+export 'Inicio/inicio_page.dart';
+export 'Map/map_page.dart';
+export 'Favorite/favorite_page.dart';
+export 'Profile/profile_page.dart';
+export 'MyProfile/my_profile_page.dart';
